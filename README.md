@@ -14,7 +14,7 @@ In my search, I considered clocks matching the form of those seen used for [Swis
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/SBB_railway_clock_animated.gif/110px-SBB_railway_clock_animated.gif)
 
-I coded up clock displays that appeared on e-ink displays (as seen in my constructed [cyberDeck 2022](https://github.com/wdbm/cyberDeck_2022). That might still be a promising avenue, but I haven't had the time to it in a proper graphical form (the ASCII version just didn't cut it). Deireadh an scéil, I went for a small and classic and cheap (imitation of a) design from Braun.
+I coded up clock displays that appeared on e-ink displays (as seen in my constructed [cyberDeck 2022](https://github.com/wdbm/cyberDeck_2022)). That might still be a promising avenue, but I haven't had the time to it in a proper graphical form (the ASCII version just didn't cut it). Deireadh an scéil, I went for a small and classic and cheap (imitation of a) design from Braun.
 
 Has it been a psychological success? Guess it does help, but mostly I like it and feel a bit better with it visible. Maybe you should get an analogue clock too.
 
@@ -57,14 +57,14 @@ An insert of corrective lenses is provided briskly in the UK by Lensology (~£10
 |![](media/894958be.jpg)|![](media/cbc4cbf9.jpg)|
 |:---:|:---:|
 
-The really really good 1995 cyberpunk film *Johnny Mnemonic* features [spoiler] a cyber-dolphin called Jones. If you were to crowdfund a hacker's Tamagotchi featuring this character, you might get the odd little open-source multi-function pentester device called the [Flipper Zero](https://flipperzero.one). The more you "hack" with this robust and well-constructed device, whether that be by turning off/down bar televisions with its infrared transmitter or by scanning RFID tags, the happier your cyber-dolphin pal gets. Beyond the various pentesting applications, the device naturally features the likes of the snake game and a little chiptunes-style music player.
+The really really good 1995 cyberpunk film [*Johnny Mnemonic*](https://www.youtube.com/watch?v=Uwl5MBzTCRQ) features [spoiler] a cyber-dolphin called Jones. If you were to crowdfund a hacker's Tamagotchi featuring this character, you might get the odd little open-source multi-function pentester device called the [Flipper Zero](https://flipperzero.one). The more you "hack" with this robust and well-constructed device, whether that be by turning off/down bar televisions with its infrared transmitter or by scanning RFID tags, the happier your cyber-dolphin pal gets. Beyond the various pentesting applications, the device naturally features the likes of the snake game and a little chiptunes-style music player.
 
 |![](media/eb5ace4b.jpg)|![](media/5c22baaf.jpg)|
 |:---:|:---:|
 
 It can interact with multiple RFID frequency ranges, Bluetooth, sub-1 GHz radio, USB (including programmable BadUSB pentesting) and infrared, and can interface with iButton keys and via GPIO pins. Replay pentests are available also. The device can connect to a phone for backups and updates.
 
-Ideal for minmimal friendly white-hat chaos and for proving to friends and family that you are a real hacker.
+Ideal for minimal friendly white-hat chaos and for proving to friends and family that you are a real hacker.
 ~$169. [Reportedly](https://t.me/zhovner_hub/1824) [there are certain difficulties](https://news.ycombinator.com/item?id=32739950) importing the devices related to sanctions against Russia.
 
 ## cyberDeck 2022
@@ -128,7 +128,7 @@ Price varies. The reader may prefer to get a battered second-hand copy with as m
 
 Valentina Tereshkova entered the cosmos in 1963 aboard the Vostok 6 as the first woman in space. It was 1978 before the first American woman, Sally Ride, flew in space. The proximal, stated reason? Space toilets. NASA space toilets were designed with only capitalist schlongs in mind.
 
-Whether it is the dismal length of queues for women's toilets in nightclubs or the seatbelt of my mother's Mercedes B Class being potentially lethal to those of shorter stature, designs throughout the world retain a bias against women, with a range from inconvenience to lethal.
+Whether it is the dismal length of queues for women's toilets in nightclubs or the seatbelt of my mother's Mercedes B Class being potentially lethal to those of shorter stature, designs throughout the world retain a bias against women, with a range from inconvenient to lethal.
 
 *Invisible Women* is a worthwhile book on an enormous and systemic issue that remains shamefully prevalant pretty much everywhere -- unintentional and intentional misogynistic design.
 
